@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/bridge-method-annotation-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/github-api-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/okhttp-urlconnection-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/com.fasterxml.jackson.core.jar/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mandhani/Downloads/com.fasterxml.jackson.annotations.jar/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
